@@ -2,7 +2,6 @@
 
 Welcome to my GitHub! 🚀 I'm a **Software Engineer** passionate about crafting innovative solutions, diving into challenging projects, and pushing the boundaries of what's possible. 
 
-> The things you own end up owning you"
 
 ---
 
