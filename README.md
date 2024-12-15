@@ -1,20 +1,20 @@
-# 👋 Hi there, I'm Gianluca Lascaro
+# 👋 Hello World, I'm **Gianluca Lascaro**  
 
-Welcome to my GitHub! 🚀 I'm a **Software Engineer** passionate about crafting innovative solutions, diving into challenging projects, and pushing the boundaries of what's possible. 
+Welcome to my GitHub! 🚀 I'm a **Software Engineer** with a passion for crafting innovative solutions, tackling challenging problems, and exploring the limitless possibilities of technology.  
 
 ---
 
-## 🚀 Tech Stack
+## 🌌 **Tech Stack: Tools of My Trade**
 <a href="https://github.com/tandpfun/skill-icons">
   <img align="center" src="https://skillicons.dev/icons?i=java,python,go,cpp,git,github&theme=dark" alt="Tech stack" />
 </a>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 **GitHub at a Glance**
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=byluca&theme=tokyonight" alt="GitHub stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=byluca&theme=tokyonight&show_icons=true" alt="GitHub stats" />
   </a>
   <a href="https://github.com/anuraghazra/anuraghazra.github.io">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byluca&layout=compact&theme=tokyonight" alt="Top languages" />
@@ -23,95 +23,81 @@ Welcome to my GitHub! 🚀 I'm a **Software Engineer** passionate about crafting
 
 ---
 
-## 🛠️ My Favorite Projects
+## 🚀 **Highlight Projects**
 
 ### 🐒 **Monkey Interpreter**
 
 <div align="center">
-  <img src="https://github.com/byluca/monkey-interpreter/blob/main/monkeyinterpreter.png" alt="Monkey Interpreter Logo" width="500" height="500">
+  <img src="https://github.com/byluca/monkey-interpreter/blob/main/monkeyinterpreter.png" alt="Monkey Interpreter Logo" width="350" height="350">
 </div>
 
-Dive into the world of programming languages! 🐵 Built from scratch using **Go**, this interpreter supports:
-- Lexer, Parser, and Evaluator
-- **C-like syntax**, integers, booleans, arithmetic, and data structures
+Dive into the fascinating world of programming languages! 🐵 Built from the ground up using **Go**, this interpreter is a testament to my love for understanding languages at their core:
+- 🔤 Lexer, Parser, and Evaluator.
+- 🧮 **C-like syntax**, integers, booleans, arithmetic, and custom data structures.
+- 🌟 **Hands-on learning experience** in compiler and interpreter design.
 
 ---
 
 ### 🥗 **SmartFoodSelector**
 
 <div align="center">
-  <img src="https://github.com/byluca/SmartFoodSelector/blob/main/food.png" alt="SmartFoodSelector Logo" width="500" height="500">
+  <img src="https://github.com/byluca/SmartFoodSelector/blob/main/food.png" alt="SmartFoodSelector Logo" width="350" height="350">
 </div>
 
-#### 🍴 **Make Smarter Food Choices with AI**  
-**SmartFoodSelector** is here to revolutionize how we analyze and recommend food products! 🚀 Using cutting-edge AI, this project helps you:  
-- 🤖 Group products into meaningful clusters.  
-- 📊 Predict categories for new items.  
-- 🧠 Estimate preferences with Bayesian Networks.  
-- 🧩 Apply rules and constraints using Prolog.
-
-#### 🌟 **Project Highlights**
-- 🛠️ **Clustering with AI**: Group products by nutritional profiles (e.g., high-protein snacks, low-calorie meals) using **k-Means**.  
-- 🧠 **Predictive Modeling**: Classify new products with **Random Forest** and manage imbalances with techniques like **SMOTE**.  
-- 🔮 **Bayesian Networks**: Predict user preferences using probabilistic models with **pgmpy**.  
-- 🧩 **Logical Reasoning**: Define rules and constraints (e.g., exclude dairy for lactose-intolerant users) with **Prolog**.
-
-#### 📦 **Get Started**
-1. 🍴 Fork the repo.  
-2. 🛠️ Install dependencies.  
-3. 📊 Load your dataset and start exploring.  
-
-#### 📜 **License**  
-Licensed under the MIT License.  
+🍴 **AI-powered food selection made smarter.** SmartFoodSelector transforms how you explore, analyze, and choose food products:
+- 🤖 Cluster products with **k-Means AI** for smarter categorization.  
+- 📊 Predict new item categories with **Random Forests**.  
+- 🔮 Harness **Bayesian Networks** for personalized recommendations.  
+- 🧩 Define logical constraints (e.g., dietary needs) using **Prolog**.
 
 ---
 
 ### 🌟 **K-Means Clustering Application**
 
 <div align="center">
-  <img src="https://github.com/byluca/K-Means-Clustering-Application/blob/main/cluster.png" alt="K-Means Clustering Logo" width="500" height="500">
+  <img src="https://github.com/byluca/K-Means-Clustering-Application/blob/main/cluster.png" alt="K-Means Clustering Logo" width="350" height="350">
 </div>
 
-A stunning **JavaFX tool** for interactive clustering! Visualize and analyze data like never before:
-- Dynamic cluster initialization
-- Real-time visualization
-- Save your results for future insights
+A stunning **JavaFX tool** that brings clustering to life:
+- ✨ Intuitive UI for dynamic cluster visualization.  
+- 🚀 Real-time clustering updates.  
+- 📂 Export and save your data effortlessly.
 
 ---
 
-## 🎓 Education
+## 🎓 **Education**
 
 🎓 **University of Bari Aldo Moro**  
 📅 2021–Present | **BSc in Computer Science**  
-- 🏆 Awarded **4 consecutive scholarships** for academic excellence  
-- 🔍 Focused on **Algorithms**, **Operating Systems**, and **Software Engineering**
+- 🏆 Awarded **4 consecutive scholarships** for academic excellence.  
+- 🔍 Specialized in **Algorithms**, **Operating Systems**, and **Software Engineering**.
 
 ---
 
-## 📜 Certifications
+## 📜 **Certifications**
 
-- 📈 **Entrepreneurship** (Cisco Networking Academy, March 2021)  
-- 🔒 **Introduction to Cybersecurity** (Cisco Networking Academy, January 2021)  
-- 🌐 **Introduction to IoT** (Cisco Networking Academy, February 2020)  
-
----
-
-## 💡 Challenges & Hackathons
-
-- **Reply Code Challenge** (2023): Solved advanced algorithmic challenges in a high-pressure team-based environment.  
-- **Cybersecurity Challenge** (2023): Tackled real-world cybersecurity issues, including ethical hacking and vulnerability analysis.  
+- 🧠 **Entrepreneurship** *(Cisco Networking Academy, March 2021)*  
+- 🔒 **Introduction to Cybersecurity** *(Cisco Networking Academy, January 2021)*  
+- 🌐 **Introduction to IoT** *(Cisco Networking Academy, February 2020)*  
 
 ---
 
-## 🏋️‍♂️ Beyond the Code
+## 💡 **Hackathons & Challenges**
 
-When I'm not coding, you'll find me **hitting the gym** and exploring the world of **bodybuilding**. Fitness keeps my mind sharp and my energy levels high! 💪
+- 🧩 **Reply Code Challenge (2023)**: Cracked advanced algorithmic puzzles in a fast-paced, team-driven environment.  
+- 🔓 **Cybersecurity Challenge (2023)**: Solved real-world ethical hacking and vulnerability challenges.  
 
 ---
 
-## 🌐 Let's Connect
+## 🏋️‍♂️ **Beyond the Code**
 
-Feel free to reach out or follow me for updates and collaborations:
+When I'm not coding, you'll find me lifting weights at the gym and exploring the world of **bodybuilding**. 💪 Staying fit keeps my mind sharp and my energy levels high. Whether it’s solving complex algorithms or breaking personal records, I’m all about pushing boundaries!
+
+---
+
+## 🌐 **Let’s Connect**
+
+Feel free to reach out or follow me for collaborations, discussions, or just to say hi! 😊  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gianluca-lascaro-68567b1b8/)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=flat-square&logo=instagram)](https://www.instagram.com/gianluca.lascaro/)
