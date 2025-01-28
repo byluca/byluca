@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm **Gianluca Lascaro**  
+# **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" /> Hi, I’m Gianluca Lascaro, from Italy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="40" height="40" />**  
 
 Welcome to my GitHub! 🚀 I'm a **Software Engineer** with a passion for crafting innovative solutions, tackling challenging problems, and exploring the limitless possibilities of technology.  
 
@@ -67,10 +67,9 @@ A stunning **JavaFX tool** that brings clustering to life:
 
 ## 🎓 **Education**
 
-🎓 **University of Bari Aldo Moro**  
-📅 2021–Present | **BSc in Computer Science**  
-- 🏆 Awarded **4 consecutive scholarships** for academic excellence.  
-- 🔍 Specialized in **Algorithms**, **Operating Systems**, and **Software Engineering**.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Light%20Skin%20Tone.png" alt="Student Light Skin Tone" width="25" height="25" /> **Computer Science** at University of Bari "Aldo Moro", Italy (2021–Present)  
+  - 🏆 Awarded **4 consecutive scholarships** for academic excellence.  
+  - 🔍 Specialized in **Algorithms**, **Operating Systems**, and **Software Engineering**.
 
 ---
 
