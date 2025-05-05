@@ -1,4 +1,4 @@
-# **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" /> Hi, I’m Gianluca Lascaro, from Italy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="40" height="40" />**  
+# **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" /> Hi, I'm Gianluca Lascaro, from Italy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="40" height="40" />**  
 
 Welcome to my GitHub! 🚀 I'm a **Software Engineer** with a passion for crafting innovative solutions, tackling challenging problems, and exploring the limitless possibilities of technology.  
 
@@ -8,18 +8,6 @@ Welcome to my GitHub! 🚀 I'm a **Software Engineer** with a passion for crafti
 <a href="https://github.com/tandpfun/skill-icons">
   <img align="center" src="https://skillicons.dev/icons?i=java,python,go,cpp,git,github&theme=dark" alt="Tech stack" />
 </a>
-
----
-
-## 📊 **GitHub at a Glance**
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=byluca&theme=tokyonight&show_icons=true" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byluca&layout=compact&theme=tokyonight" alt="Top languages" />
-  </a>
-</div>
 
 ---
 
@@ -70,35 +58,5 @@ A stunning **JavaFX tool** that brings clustering to life:
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Light%20Skin%20Tone.png" alt="Student Light Skin Tone" width="25" height="25" /> **Computer Science** at University of Bari "Aldo Moro", Italy (2021–Present)  
   - 🏆 Awarded **4 consecutive scholarships** for academic excellence.  
   - 🔍 Specialized in **Algorithms**, **Operating Systems**, and **Software Engineering**.
-
----
-
-## 📜 **Certifications**
-
-- 🧠 **Entrepreneurship** *(Cisco Networking Academy, March 2021)*  
-- 🔒 **Introduction to Cybersecurity** *(Cisco Networking Academy, January 2021)*  
-- 🌐 **Introduction to IoT** *(Cisco Networking Academy, February 2020)*  
-
----
-
-## 💡 **Hackathons & Challenges**
-
-- 🧩 **Reply Code Challenge (2023)**: Cracked advanced algorithmic puzzles in a fast-paced, team-driven environment.  
-- 🔓 **Cybersecurity Challenge (2023)**: Solved real-world ethical hacking and vulnerability challenges.  
-
----
-
-## 🏋️‍♂️ **Beyond the Code**
-
-When I'm not coding, you'll find me lifting weights at the gym and exploring the world of **bodybuilding**. 💪 Staying fit keeps my mind sharp and my energy levels high. Whether it’s solving complex algorithms or breaking personal records, I’m all about pushing boundaries!
-
----
-
-## 🌐 **Let’s Connect**
-
-Feel free to reach out or follow me for collaborations, discussions, or just to say hi! 😊  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gianluca-lascaro-68567b1b8/)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=flat-square&logo=instagram)](https://www.instagram.com/gianluca.lascaro/)
 
 ---
