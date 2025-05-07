@@ -1,13 +1,5 @@
 # **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" /> Hi, I'm Gianluca Lascaro, from Italy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="40" height="40" />**  
 
-Welcome to my GitHub! 🚀 I'm a **Software Engineer** with a passion for crafting innovative solutions, tackling challenging problems, and exploring the limitless possibilities of technology.  
-
----
-
-## 🌌 **Tech Stack: Tools of My Trade**
-<a href="https://github.com/tandpfun/skill-icons">
-  <img align="center" src="https://skillicons.dev/icons?i=java,python,go,cpp,git,github&theme=dark" alt="Tech stack" />
-</a>
 
 ---
 
