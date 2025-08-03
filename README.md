@@ -1,14 +1,4 @@
-<!-- Title and Greeting -->
-<h1 align="center">
-  Hi, I'm Gianluca Lascaro 👋
-</h1>
-<h3 align="center">
-  Machine Learning Student
-</h3>
 
-
-
----
 
 <!-- About Me Section -->
 ## 📄 About Me
@@ -84,10 +74,6 @@ Here's a selection of my most significant projects. Click the titles to explore 
 
 <!-- Contact Section -->
 ## 📬 Get in Touch
-
-<p align="center">
-  I'm always open to new opportunities and collaborations. Feel free to contact me!
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gianluca-lascaro-68567b1b8/" target="_blank">
