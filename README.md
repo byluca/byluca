@@ -79,7 +79,6 @@ Here's a selection of my most significant projects. Click the titles to explore 
 |---|---|---|
 | 🧠 **[Brain Tumor Graph Segmentation](https://github.com/byluca/brain-tumor-graph-segmentation)** | A Deep Learning model for brain tumor segmentation from medical images. It leverages **Graph Neural Networks (GNNs)** to analyze spatial relationships and improve segmentation accuracy. | `Python`, `PyTorch`, `GNN`, `Medical Imaging` |
 | 🐒 **[Monkey Interpreter](https://github.com/byluca/monkey-interpreter)** | An implementation of an interpreter for the "Monkey" programming language, based on the book *"Writing An Interpreter in Go"*. A hands-on dive into the concepts of **lexers**, **parsers**, and **ASTs**. | `Go`, `Interpreter`, `Compilers`, `AST` |
-| 🤖 **[LLM from Scratch](https://github.com/byluca/llm-from-scratch)** | Building a **Large Language Model (LLM)** from scratch to deeply understand the **Transformer** architecture and the **self-attention** mechanism, the foundations of modern language models like GPT. | `Python`, `PyTorch`, `NLP`, `Transformers` |
 
 ---
 
