@@ -1,15 +1,6 @@
 
 
-<!-- About Me Section -->
-## 📄 About Me
 
-<p>
-  👋 Hi everyone, and welcome to my digital space! I'm an <strong>Artificial Intelligence student</strong> with a strong passion for <strong>Machine Learning</strong>.
-</p>
-
-<p>
-  I firmly believe the best way to learn is by <strong>building</strong>, which is why I dedicate much of my time to hands-on projects. My goal is to turn theoretical knowledge into tangible solutions, exploring how algorithms can solve real-world problems.
-</p>
 
 ### 🎓 **Education**
 - **Master's Degree in Artificial Intelligence**
