@@ -1,11 +1,10 @@
-
-
-
-
 ### 🎓 **Education**
 - **Master's Degree in Artificial Intelligence**
   - *University of Bari Aldo Moro (2025 - Present)*
   - Focusing on: `Deep Learning`, `Natural Language Processing (NLP)`, `Computer Vision`.
+
+- **Erasmus+ Exchange Program**
+  - *University of A Coruña (UDC), Spain (Sept 2025 - June 2026)*
 
 - **Bachelor's Degree in Computer Science**
   - *University of Bari Aldo Moro (2021 - 2025)*
@@ -13,15 +12,12 @@
 
 ---
 
-<!-- Tech & Tools Section -->
 ## 🛠️ Tech & Tools
 
 <p align="center">
-  <!-- Programming Languages -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </a>
-  <!-- ML/DL Frameworks & Libraries -->
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
   </a>
@@ -40,7 +36,6 @@
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   </a>
-  <!-- Other Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </a>
@@ -51,7 +46,6 @@
 
 ---
 
-<!-- Featured Projects Section -->
 ## 🚀 Featured Projects
 
 Here's a selection of my most significant projects. Click the titles to explore the repositories!
@@ -63,7 +57,6 @@ Here's a selection of my most significant projects. Click the titles to explore 
 
 ---
 
-<!-- Contact Section -->
 ## 📬 Get in Touch
 
 <p align="center">
