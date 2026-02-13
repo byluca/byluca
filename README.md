@@ -1,7 +1,7 @@
 ### 🎓 **Education**
 - **Master's Degree in Artificial Intelligence**
   - *University of Bari Aldo Moro (2025 - Present)*
-  - Focusing on: `Deep Learning`, `Natural Language Processing (NLP)`, `Computer Vision`.
+  - Focusing on: `Deep Learning`, `Natural Language Processing (NLP)`, `Computer Vision`,`Machine Learning`
 
 - **Erasmus+ Exchange Program**
   - *University of A Coruña (UDC), Spain (Sept 2025 - June 2026)*
